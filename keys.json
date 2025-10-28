@@ -1,3 +1,7 @@
 {
-  brbr_potapim_750256
+  "brbr_potapim_123456": {
+    "created": 123456789,
+    "used": false,
+    "user_id": 5167256067
+  }
 }
