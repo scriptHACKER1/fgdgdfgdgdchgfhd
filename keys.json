@@ -1,15 +1,12 @@
 {
-  "brbr_potapim_603161": {
-    "created": 123456789,
+  "brbr_potapim_123456": {
+    "created": 1234567890,
+    "expire_time": 0,
     "used": false,
-    "user_id": 5167256067
-  },
-  "brbr_potapim_628887": {
-    "created": 1761650885.4264352,
-    "used": false,
-    "user_id": 5167256067,
-    "username": "jeyaii",
+    "user_id": 123456789,
+    "username": "username",
     "approved_by": "admin",
-    "approved_time": 1761650885.4264352
+    "approved_time": 1234567890,
+    "duration": "forever"
   }
 }
