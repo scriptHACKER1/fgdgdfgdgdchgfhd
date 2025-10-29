@@ -8,5 +8,15 @@
     "approved_by": "admin",
     "approved_time": 1234567890,
     "duration": "forever"
+  },
+  "brbr_potapim_103118": {
+    "created": 1761704346.0831985,
+    "expire_time": 1762309045,
+    "used": false,
+    "user_id": 5167256067,
+    "username": "jeyaii",
+    "approved_by": "admin_5167256067",
+    "approved_time": 1761704346.0831985,
+    "duration": "week"
   }
 }
